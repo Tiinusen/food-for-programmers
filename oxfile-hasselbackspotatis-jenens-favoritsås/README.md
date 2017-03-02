@@ -1,4 +1,4 @@
-### Recept för Oxfilé, Hasselbackspotatis och Jenens favoritsås (Två personer) ###
+# Recept för Oxfilé, Hasselbackspotatis och Jenens favoritsås (Två personer)
 // Detta recept avser en spis som har en 1-12 platta och resten 1-6 plattor. samt en microvågsugn
 // Jag tar inget ansvar för runtomkring faktorer och skillnader mellan utrustning om detta genomförs på annat ställe än i mitt kök.
 Införskaffa ingredienser: smör, ströbröd, oxfile (2 stycken), potatis (åtta stycken), jenens favoritsås, vispgrädde (2.5 dl)
@@ -53,7 +53,7 @@ Sätt spisplatta med kastrull på till gradtal 6.
 Genomför moment {## Vispning} asynkront med korta pauser för övriga {## Timer} moment.
 Ifall villkor {# Sås börjar koka} genomför moment {## Ta bort kastrull}
 
-# Villkor: Sås börjar koka
+### Villkor: Sås börjar koka
 Om såsen börjar bubbla (koka) så infaller detta villkor
 
 ## Moment: Vispning
@@ -64,7 +64,7 @@ Ta bort kastrull och sätt på underlägg.
 Stäng av spisplatta (1-6) som kastrull stod på.
 Ifall villkor {# Sås kallnar} genomför moment {## Sätt tillbaka kastrull}
 
-# Villkor: Sås kallnar
+### Villkor: Sås kallnar
 Om såsen börjar bli kall (testas med sked lite till och från) så infaller detta villkor.
 
 ## Moment: Sätt tillbaka kastrull
