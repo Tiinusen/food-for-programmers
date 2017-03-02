@@ -24,7 +24,7 @@ Alternativt tillägg för bättre upplevelse: Vin (The wanted zin, Zinfandels Fr
 
 ## Moment: Tillagning
 - Ange timer till 25 minuter och starta.
-- Stoppa in ugnsbleck med potatis i ugnen.
+- Stoppa in ugnsbleck med potatis i ugnen (Sätt ungsbleck på mittersta skåra)
 - Starta spisplatta (1-12 platta) angivet på 7-8.
 - Genomför {## Timer} momenten när tiden infaller asynkront
 
