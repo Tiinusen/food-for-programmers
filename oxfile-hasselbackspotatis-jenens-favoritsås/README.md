@@ -1,10 +1,14 @@
 # Recept för Oxfilé, Hasselbackspotatis och Jenens favoritsås (Två personer)
 *Detta recept avser en spis som har en 1-12 platta och resten 1-6 plattor. samt en microvågsugn*
+
 *Jag tar inget ansvar för runtomkring faktorer och skillnader mellan utrustning om detta genomförs på annat ställe än i mitt kök.*
 
 Införskaffa ingredienser: smör, ströbröd, oxfile (2 stycken), potatis (åtta stycken), jenens favoritsås, vispgrädde (2.5 dl)
+
 Införskaffa kryddor: flingsalt, salt, svartpeppar och vitpeppar.
+
 Redskap: Stekspade, bakplåtspapper/ungsplåtspapper, stekpanna, kastrull
+
 Alternativt tillägg för bättre upplevelse: Vin (The wanted zin, Zinfandels From Old Vines)
 
 ## Moment: Förberedelser
