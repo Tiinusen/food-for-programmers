@@ -1,4 +1,4 @@
-# Recept för Oxfilé, Hasselbackspotatis och Jenens favoritsås (Två personer)
+# Recept för Oxfilé, Hasselbackspotatis och Jensens favoritsås (Två personer)
 *Detta recept avser en spis som har en 1-12 platta och resten 1-6 plattor. samt en microvågsugn*
 *Jag tar inget ansvar för runtomkring faktorer och skillnader mellan utrustning om detta genomförs på annat ställe än i mitt kök.*
 
